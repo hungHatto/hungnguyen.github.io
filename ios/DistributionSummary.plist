@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>78</string>
+			<string>80</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -1019,6 +1019,34 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
+					<string>restart_app.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>463UH3R8SD</string>
+						<key>name</key>
+						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.0.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<key>dateExpires</key>
+						<string>30/7/25</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
 					<string>share_plus.framework</string>
 					<key>team</key>
 					<dict>
@@ -1260,7 +1288,7 @@
 					<key>profile</key>
 					<dict>
 						<key>UUID</key>
-						<string>b07b5d50-3ee7-4bf3-b779-87ffecfddd86</string>
+						<string>1d66caaa-f0b7-4903-87ea-1ef5ccb17dba</string>
 						<key>dateExpires</key>
 						<string>30/7/25</string>
 						<key>name</key>
@@ -1299,7 +1327,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>3e0e56e1-f5f5-4a37-8072-3fd735d570a7</string>
+				<string>93ff8ddb-2f46-4d0b-8749-e362e8a1a5a3</string>
 				<key>dateExpires</key>
 				<string>30/7/25</string>
 				<key>name</key>
