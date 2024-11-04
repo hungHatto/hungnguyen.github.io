@@ -4,21 +4,15 @@
 <dict>
 	<key>destination</key>
 	<string>export</string>
-	<key>generateAppStoreInformation</key>
-	<false/>
-	<key>manageAppVersionAndBuildNumber</key>
-	<false/>
 	<key>method</key>
-	<string>app-store-connect</string>
+	<string>release-testing</string>
 	<key>signingStyle</key>
 	<string>automatic</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
 	<string>463UH3R8SD</string>
-	<key>testFlightInternalTestingOnly</key>
-	<false/>
-	<key>uploadSymbols</key>
-	<true/>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
 </dict>
 </plist>
