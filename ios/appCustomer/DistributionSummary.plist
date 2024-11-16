@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>7</string>
+			<string>8</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -104,7 +104,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>10.28.0</string>
+					<string>11.4.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -132,7 +132,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>10.29.0</string>
+					<string>11.4.2</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -160,7 +160,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>10.29.0</string>
+					<string>11.4.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -188,7 +188,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>10.28.0</string>
+					<string>11.4.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -244,7 +244,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>9.4.1</string>
+					<string>10.1.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -272,35 +272,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>7.13.3</string>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
-						<key>dateExpires</key>
-						<string>30/7/25</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>MTBBarcodeScanner.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>463UH3R8SD</string>
-						<key>name</key>
-						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
-					</dict>
-					<key>versionNumber</key>
-					<string>5.0.11</string>
+					<string>8.0.2</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -664,35 +636,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>2.30910.0</string>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
-						<key>dateExpires</key>
-						<string>30/7/25</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>package_info.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>463UH3R8SD</string>
-						<key>name</key>
-						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
-					</dict>
-					<key>versionNumber</key>
-					<string>0.0.1</string>
+					<string>3.30910.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -795,34 +739,6 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>qr_code_scanner.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>463UH3R8SD</string>
-						<key>name</key>
-						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
-					</dict>
-					<key>versionNumber</key>
-					<string>0.2.0</string>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
-						<key>dateExpires</key>
-						<string>30/7/25</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
 					<string>restart_app.framework</string>
 					<key>team</key>
 					<dict>
@@ -879,7 +795,7 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>sqflite.framework</string>
+					<string>sqflite_darwin.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -888,7 +804,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>0.0.3</string>
+					<string>0.0.4</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
