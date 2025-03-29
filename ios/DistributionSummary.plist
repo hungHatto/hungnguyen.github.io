@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>100</string>
+			<string>101</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -104,7 +104,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>11.4.0</string>
+					<string>11.8.1</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -132,7 +132,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>11.4.2</string>
+					<string>11.8.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -160,7 +160,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>11.4.0</string>
+					<string>11.8.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -188,7 +188,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>11.4.0</string>
+					<string>11.8.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -329,34 +329,6 @@
 					</dict>
 					<key>versionNumber</key>
 					<string>1.0.1</string>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>buildNumber</key>
-					<string>1</string>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
-						<key>dateExpires</key>
-						<string>30/7/25</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>Toast.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>463UH3R8SD</string>
-						<key>name</key>
-						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
-					</dict>
-					<key>versionNumber</key>
-					<string>4.1.1</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -1075,7 +1047,7 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>sqflite.framework</string>
+					<string>sqflite_darwin.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -1084,7 +1056,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>0.0.3</string>
+					<string>0.0.4</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
