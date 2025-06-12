@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>39</string>
+			<string>40</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -104,7 +104,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>11.4.0</string>
+					<string>11.13.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -132,7 +132,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>11.4.2</string>
+					<string>11.13.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -160,7 +160,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>11.4.0</string>
+					<string>11.13.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -188,7 +188,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>11.4.0</string>
+					<string>11.13.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -272,7 +272,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>8.0.2</string>
+					<string>8.1.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -291,7 +291,7 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>Toast.framework</string>
+					<string>SwiftTryCatch.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -300,7 +300,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>4.1.1</string>
+					<string>0.0.1</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -375,7 +375,7 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>device_info.framework</string>
+					<string>device_info_plus.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -403,7 +403,7 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>flutter_dynamic_icon.framework</string>
+					<string>flutter_dynamic_icon_plus.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -412,7 +412,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>0.0.1</string>
+					<string>1.0.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -496,7 +496,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>0.0.1</string>
+					<string>2.4.3</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -949,7 +949,7 @@
 				<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 			</dict>
 			<key>versionNumber</key>
-			<string>2.1.5</string>
+			<string>2.1.6</string>
 		</dict>
 	</array>
 </dict>
