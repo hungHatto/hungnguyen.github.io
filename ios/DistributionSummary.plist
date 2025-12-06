@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>111</string>
+			<string>112</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -40,8 +40,6 @@
 					</dict>
 					<key>name</key>
 					<string>App.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -70,8 +68,6 @@
 					</dict>
 					<key>name</key>
 					<string>FBLPromises.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -100,8 +96,6 @@
 					</dict>
 					<key>name</key>
 					<string>FirebaseCore.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -130,8 +124,6 @@
 					</dict>
 					<key>name</key>
 					<string>FirebaseCoreInternal.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -160,8 +152,6 @@
 					</dict>
 					<key>name</key>
 					<string>FirebaseInstallations.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -190,8 +180,6 @@
 					</dict>
 					<key>name</key>
 					<string>FirebaseMessaging.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -220,8 +208,6 @@
 					</dict>
 					<key>name</key>
 					<string>Flutter.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -250,8 +236,6 @@
 					</dict>
 					<key>name</key>
 					<string>GoogleDataTransport.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -280,8 +264,6 @@
 					</dict>
 					<key>name</key>
 					<string>GoogleUtilities.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -310,8 +292,6 @@
 					</dict>
 					<key>name</key>
 					<string>MTBBarcodeScanner.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -340,8 +320,6 @@
 					</dict>
 					<key>name</key>
 					<string>SoundModeManager.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -370,8 +348,6 @@
 					</dict>
 					<key>name</key>
 					<string>SwiftTryCatch.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -400,8 +376,6 @@
 					</dict>
 					<key>name</key>
 					<string>audio_session.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -430,8 +404,6 @@
 					</dict>
 					<key>name</key>
 					<string>audioplayers_darwin.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -460,8 +432,6 @@
 					</dict>
 					<key>name</key>
 					<string>connectivity_plus.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -490,8 +460,6 @@
 					</dict>
 					<key>name</key>
 					<string>device_info_plus.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -520,8 +488,6 @@
 					</dict>
 					<key>name</key>
 					<string>device_sound_mode.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -550,8 +516,6 @@
 					</dict>
 					<key>name</key>
 					<string>flutter_dynamic_icon_plus.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -580,8 +544,6 @@
 					</dict>
 					<key>name</key>
 					<string>flutter_keyboard_visibility.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -610,8 +572,6 @@
 					</dict>
 					<key>name</key>
 					<string>flutter_local_notifications.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -640,8 +600,6 @@
 					</dict>
 					<key>name</key>
 					<string>flutter_native_splash.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -670,8 +628,6 @@
 					</dict>
 					<key>name</key>
 					<string>flutter_timezone.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -700,8 +656,6 @@
 					</dict>
 					<key>name</key>
 					<string>fluttertoast.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -730,8 +684,6 @@
 					</dict>
 					<key>name</key>
 					<string>geocoding_ios.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -760,8 +712,6 @@
 					</dict>
 					<key>name</key>
 					<string>geolocator_apple.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -790,8 +740,6 @@
 					</dict>
 					<key>name</key>
 					<string>just_audio.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -820,8 +768,6 @@
 					</dict>
 					<key>name</key>
 					<string>nanopb.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -850,8 +796,6 @@
 					</dict>
 					<key>name</key>
 					<string>package_info_plus.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -880,8 +824,6 @@
 					</dict>
 					<key>name</key>
 					<string>path_provider_foundation.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -910,8 +852,6 @@
 					</dict>
 					<key>name</key>
 					<string>pointer_interceptor_ios.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -940,8 +880,6 @@
 					</dict>
 					<key>name</key>
 					<string>qr_code_scanner_plus.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -970,8 +908,6 @@
 					</dict>
 					<key>name</key>
 					<string>restart_app.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -1000,8 +936,6 @@
 					</dict>
 					<key>name</key>
 					<string>shared_preferences_foundation.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -1030,8 +964,6 @@
 					</dict>
 					<key>name</key>
 					<string>sqflite_darwin.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -1060,8 +992,6 @@
 					</dict>
 					<key>name</key>
 					<string>url_launcher_ios.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -1090,8 +1020,6 @@
 					</dict>
 					<key>name</key>
 					<string>vibration.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -1120,8 +1048,6 @@
 					</dict>
 					<key>name</key>
 					<string>video_player_avfoundation.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -1150,8 +1076,6 @@
 					</dict>
 					<key>name</key>
 					<string>wakelock_plus.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -1180,8 +1104,6 @@
 					</dict>
 					<key>name</key>
 					<string>webview_flutter_wkwebview.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -1198,7 +1120,7 @@
 						<string>arm64</string>
 					</array>
 					<key>buildNumber</key>
-					<string>111</string>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -1212,8 +1134,6 @@
 					<dict>
 						<key>application-identifier</key>
 						<string>463UH3R8SD.com.driverhoiango.HoiAnGoWidget</string>
-						<key>beta-reports-active</key>
-						<true/>
 						<key>com.apple.developer.team-identifier</key>
 						<string>463UH3R8SD</string>
 						<key>com.apple.security.application-groups</key>
@@ -1228,14 +1148,12 @@
 					<key>profile</key>
 					<dict>
 						<key>UUID</key>
-						<string>bc543aa6-5337-4815-82e2-23ba88cff38f</string>
+						<string>09d4944e-f24a-41e4-abfa-9333a03c245c</string>
 						<key>dateExpires</key>
 						<string>10/7/26</string>
 						<key>name</key>
-						<string>iOS Team Store Provisioning Profile: com.driverhoiango.HoiAnGoWidget</string>
+						<string>iOS Team Ad Hoc Provisioning Profile: com.driverhoiango.HoiAnGoWidget</string>
 					</dict>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -1244,7 +1162,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>1.2.6</string>
+					<string>1.2.3</string>
 				</dict>
 			</array>
 			<key>entitlements</key>
@@ -1253,8 +1171,6 @@
 				<string>463UH3R8SD.com.driverhoiango</string>
 				<key>aps-environment</key>
 				<string>production</string>
-				<key>beta-reports-active</key>
-				<true/>
 				<key>com.apple.developer.authentication-services.autofill-credential-provider</key>
 				<true/>
 				<key>com.apple.developer.team-identifier</key>
@@ -1271,14 +1187,12 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>c56c1d0a-80c7-45e2-bb3c-d0fbefe4bf03</string>
+				<string>4a3eaf20-dffc-45b1-8135-4e88faf2b0e8</string>
 				<key>dateExpires</key>
 				<string>10/7/26</string>
 				<key>name</key>
-				<string>iOS Team Store Provisioning Profile: com.driverhoiango</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.driverhoiango</string>
 			</dict>
-			<key>symbols</key>
-			<true/>
 			<key>team</key>
 			<dict>
 				<key>id</key>
