@@ -10,15 +10,15 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>41</string>
+			<string>42</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+				<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 				<key>dateExpires</key>
-				<string>30/7/25</string>
+				<string>10/7/26</string>
 				<key>type</key>
-				<string>Apple Distribution</string>
+				<string>Cloud Managed Apple Distribution</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -32,11 +32,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>App.framework</string>
@@ -60,11 +60,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FBLPromises.framework</string>
@@ -88,11 +88,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseCore.framework</string>
@@ -104,7 +104,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>11.13.0</string>
+					<string>12.2.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -116,11 +116,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseCoreInternal.framework</string>
@@ -132,7 +132,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>11.13.0</string>
+					<string>12.2.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -144,11 +144,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseInstallations.framework</string>
@@ -160,7 +160,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>11.13.0</string>
+					<string>12.2.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -172,11 +172,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseMessaging.framework</string>
@@ -188,7 +188,7 @@
 						<string>COSEVCO - HOI AN JOINT STOCK COMPANY</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>11.13.0</string>
+					<string>12.2.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -200,11 +200,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Flutter.framework</string>
@@ -228,11 +228,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>GoogleDataTransport.framework</string>
@@ -256,11 +256,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>GoogleUtilities.framework</string>
@@ -284,11 +284,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SwiftTryCatch.framework</string>
@@ -312,11 +312,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>audio_session.framework</string>
@@ -340,11 +340,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>audioplayers_darwin.framework</string>
@@ -368,11 +368,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>device_info_plus.framework</string>
@@ -396,11 +396,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>flutter_dynamic_icon_plus.framework</string>
@@ -424,11 +424,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>flutter_keyboard_visibility.framework</string>
@@ -452,11 +452,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>flutter_local_notifications.framework</string>
@@ -480,11 +480,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>flutter_native_splash.framework</string>
@@ -508,11 +508,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>fluttertoast.framework</string>
@@ -536,11 +536,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>geocoding_ios.framework</string>
@@ -564,11 +564,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>geolocator_apple.framework</string>
@@ -592,11 +592,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>just_audio.framework</string>
@@ -620,11 +620,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>nanopb.framework</string>
@@ -648,11 +648,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>package_info_plus.framework</string>
@@ -676,11 +676,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>path_provider_foundation.framework</string>
@@ -704,11 +704,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>pointer_interceptor_ios.framework</string>
@@ -732,11 +732,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>restart_app.framework</string>
@@ -760,11 +760,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>shared_preferences_foundation.framework</string>
@@ -788,11 +788,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>sqflite_darwin.framework</string>
@@ -816,11 +816,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>url_launcher_ios.framework</string>
@@ -844,11 +844,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>video_player_avfoundation.framework</string>
@@ -872,11 +872,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>wakelock_plus.framework</string>
@@ -900,11 +900,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>D7B20C28C1490D6C75D40C8E9C318181AEB8E10B</string>
+						<string>F6D551004CBB8C9721865288F30C2242BC69C93D</string>
 						<key>dateExpires</key>
-						<string>30/7/25</string>
+						<string>10/7/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>webview_flutter_wkwebview.framework</string>
@@ -935,7 +935,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>4af888ef-bd53-4a05-b711-446a092241c8</string>
+				<string>11a279b5-fab5-4f39-a081-54444a7dd2db</string>
 				<key>dateExpires</key>
 				<string>10/7/26</string>
 				<key>name</key>
