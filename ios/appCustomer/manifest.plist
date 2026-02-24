@@ -19,9 +19,9 @@
 				<key>bundle-identifier</key>
 				<string>com.hoiango.partner</string>
 				<key>bundle-version</key>
-				<string>2.1.6</string>
+				<string>2.1.7</string>
 				<key>buildNumber</key>
-				<string>54</string>
+				<string>57</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
