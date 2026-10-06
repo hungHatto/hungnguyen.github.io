@@ -14,160 +14,190 @@
             padding: 10pt;
             border-radius: 20pt;
         }
+        /* Components */
+        .main-info {
+            margin-left: 40px;
+        }
+        .download-item {
+            margin-bottom: 20px;
+        }
+        .release-section {
+            margin-left: 20px;
+        }
+        .subtitle {
+            font-weight: 700;
+            margin-top: 24px;
+            margin-bottom: 8px;
+            display: inline-block;
+        }
+        .release-detail {
+            display: block;
+            margin-left: 16px;
+            line-height: 1.4;
+        }
+        .release-detail li {
+            margin-bottom: 4px;
+        }
+        .release-detail-note {
+            line-height: 1.4;
+        }
     </style>
 </head>
 
 <body>
     <br>
     <table style="width:100%">
+        <!-- HOIANGO DRIVER -->
         <tr>
-            <div style="display: flex;">
-                <img src="./assets/ic_driver.png" alt="Logo" style="width: 40px; height: 40px;">
-                <h3>HoiAnGo Driver - Dev - Build 1.2.8 build 133</h3>
-            </div>
-            
-            <!-- download buttons -->
-            <div style="margin-left: 40px;">
-                <!-- download app iOS -->
-                <div style="margin-bottom: 20px">
-                    <a
-                        href="itms-services://?action=download-manifest&amp;url=https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/ios/appDriver/manifest.plist">
-                        iOS Download App 
-                    </a>
+            <td colspan="2">
+                <div style="display: flex; align-items: center;">
+                    <img src="./assets/ic_driver.png" alt="Logo" style="width: 40px; height: 40px;">
+                    <h2 style="margin-left: 12px;">HoiAnGo Driver</h2>
                 </div>
-                <!-- download app APK -->
-                <div>
-                    <a href="https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/android/appDriver/HoiAnGo-Driver.apk">
-                        APK Download App
-                    </a>
-                </div>
-            </div>
-            
-            <!-- Release note -->
-            <div style="margin-left: 20px;">
-                
-                <br/>
-                <em style="font-weight: 700; margin-top: 24px; margin-bottom: 8px;"> Release Note: </em>
-                 <span>(Dev version)</span>
-                <br/>
-
-                 <br style="display:block; margin-left: 16px; line-height: 1.2;">
-                    <li>New:</li>
-                    <br/>
-                    <span> - Update layout list audios in detail order</span>
-                    <br>
-                </ul>     
-                  
-            </div>
-            
+            </td>
         </tr>
-        <hr style="margin-top: 24px;">
-        <hr style="margin-bottom: 24px;">
         <tr>
-            <div style="display: flex;">
-                <img src="./assets/ic_customer.jpg" alt="Logo" style="width: 40px; height: 40px;">
-                <h3>HoiAnGo Customer - Dev - Build 2.1.8 - build 63</h3>
-            </div>
-            
-            <!-- download buttons -->
-            <div style="margin-left: 40px;">
-                <!-- download app iOS -->
-                <div style="margin-bottom: 20px">
-                    <a
-                        href="itms-services://?action=download-manifest&amp;url=https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/ios/appCustomer/manifest.plist">
-                        iOS Download App 
-                    </a>
+            <!-- Driver Dev -->
+            <td style="width: 50%; vertical-align: top; border-right: 1px solid #ccc; padding-right: 20px;">
+                <div style="display: flex;">
+                    <h3>Dev - Build 1.2.8 build 133</h3>
                 </div>
-                <!-- download app APK -->
-                <div>
-                    <a href="https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/android/appCustomer/HoiAnGo-Customer.apk">
-                        APK Download App
-                    </a>
-                </div>
-            </div>
-            
-            <!-- Release note -->
-            <div style="margin-left: 20px;">
                 
-                <br/>
-                <em style="font-weight: 700; margin-top: 24px; margin-bottom: 8px;"> Release Note: </em>  
-                <span> Dev version </span>
-                <br/>
-
-                <ul style="display:block; margin-left: 16px; line-height: 1.2;">
-                   
-                    <strong> 
-                         <li> New feature: </li> 
-                    </strong>
-                    <span> - Update layout for big device (iPad, tablet, fold)</span>
-                    <br/>
-                    <span> - Apply App Điều hành & Sale vào app Customer / Partner </span>
-                    <br/>
-                    <span> - Update handle get current location when create order (<strong>Transit</strong> or <strong>Tour</strong>) for login with role <strong>Sale</strong></span>
-                    <br/>
-                    <span> - Handle open call / send email when press order have invoice information in mini app in History </span>
-                </ul>     
-            </div>
+                <div class="main-info">
+                    <div class="download-item">
+                        <a href="itms-services://?action=download-manifest&amp;url=https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/ios/appDriver/manifest.plist">
+                            iOS Download App 
+                        </a>
+                    </div>
+                    <div class="download-item">
+                        <a href="https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/android/appDriver/HoiAnGo-Driver.apk">
+                            APK Download App
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="release-section">
+                    <em class="subtitle">Release Note:</em>
+                    <ul class="release-detail">
+                        <li><strong>New:</strong></li>
+                        <ul class="release-detail-note">
+                            <li>Update layout list audios in detail order</li>
+                        </ul>
+                    </ul>     
+                </div>
+            </td>
+            
+            <!-- Driver Prod -->
+            <td style="width: 50%; vertical-align: top; padding-left: 20px;">
+                <div style="display: flex;">
+                    <h3>Prod - Build 1.2.8 build 134</h3>
+                </div>
+                
+                <div class="main-info">
+                    <div class="download-item">
+                        <a href="itms-services://?action=download-manifest&amp;url=https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/ios/appDriver/production/manifest.plist">
+                            iOS Download App 
+                        </a>
+                    </div>
+                    <div class="download-item">
+                        <a href="https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/android/appDriver/production/HoiAnGo-Driver-Prod.apk">
+                            APK Download App
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="release-section">
+                    <em class="subtitle">Release Note:</em>
+                    <ul class="release-detail">
+                        <li><strong>New:</strong></li>
+                        <ul class="release-detail-note">
+                            <li>Update layout list audios in detail order</li>
+                        </ul>
+                    </ul>     
+                </div>
+            </td>
         </tr>
-        <hr style="margin-top: 24px;">
-        <hr style="margin-bottom: 24px;">
-                <tr>
-            <div style="display: flex;">
-                <img src="./assets/ic_operator.png" alt="Logo" style="width: 40px; height: 40px;">
-                <h3>HoiAnGo Operator - Dev - Build 1.0.1 - build 6</h3>
-            </div>
-            
-            <!-- download buttons -->
-            <div style="margin-left: 40px;">
-                <!-- download app iOS -->
-                <div style="margin-bottom: 20px">
-                    <a
-                        href="itms-services://?action=download-manifest&amp;url=https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/ios/appOperator/manifest.plist">
-                        iOS Download App 
-                    </a>
-                </div>
-                <!-- download app APK -->
-                <div>
-                    <a href="https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/android/appOperator/HoiAnGo-Operator.apk">
-                        APK Download App
-                    </a>
-                </div>
-            </div>
-            
-            <!-- Release note -->
-            <div style="margin-left: 20px;">
-                
-                <br/>
-                <em style="font-weight: 700; margin-top: 24px; margin-bottom: 8px;"> Release Note: </em>  
-                <span> Dev version </span>
-                <br/>
 
-                <ul style="display:block; margin-left: 16px; line-height: 1.2;">
-                    <li> Update handle back gesture for ios & android </li>
-                    <li> Update resume service when service is cool down</li>
-                </ul>     
-           </div>
+        <!-- HOIANGO CUSTOMER -->
+        <tr>
+            <td colspan="2">
+                <hr style="margin-top: 24px; margin-bottom: 24px;">
+                <div style="display: flex; align-items: center;">
+                    <img src="./assets/ic_customer.jpg" alt="Logo" style="width: 40px; height: 40px;">
+                    <h2 style="margin-left: 12px;">HoiAnGo Customer</h2>
+                </div>
+                
+                <div style="display: flex;">
+                    <h3>Dev - Build 2.1.8 - build 63</h3>
+                </div>
+                
+                <div class="main-info">
+                    <div class="download-item">
+                        <a href="itms-services://?action=download-manifest&amp;url=https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/ios/appCustomer/manifest.plist">
+                            iOS Download App 
+                        </a>
+                    </div>
+                    <div class="download-item">
+                        <a href="https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/android/appCustomer/HoiAnGo-Customer.apk">
+                            APK Download App
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="release-section">
+                    <em class="subtitle">Release Note (Dev version):</em>
+                    <ul class="release-detail">
+                        <li><strong>New feature:</strong></li>
+                        <ul class="release-detail-note">
+                            <li>Update layout for big device (iPad, tablet, fold)</li>
+                            <li>Apply App Điều hành & Sale vào app Customer / Partner</li>
+                            <li>Update handle get current location when create order (<strong>Transit</strong> or <strong>Tour</strong>) for login with role <strong>Sale</strong></li>
+                            <li>Handle open call / send email when press order have invoice information in mini app in History</li>
+                        </ul>
+                    </ul>     
+                </div>
+            </td>
+        </tr>
+
+        <!-- HOIANGO OPERATOR -->
+        <tr>
+            <td colspan="2">
+                <hr style="margin-top: 24px; margin-bottom: 24px;">
+                <div style="display: flex; align-items: center;">
+                    <img src="./assets/ic_operator.png" alt="Logo" style="width: 40px; height: 40px;">
+                    <h2 style="margin-left: 12px;">HoiAnGo Operator</h2>
+                </div>
+                
+                <div style="display: flex;">
+                    <h3>Dev - Build 1.0.1 - build 6</h3>
+                </div>
+
+                <div class="main-info">
+                    <div class="download-item">
+                        <a href="itms-services://?action=download-manifest&amp;url=https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/ios/appOperator/manifest.plist">
+                            iOS Download App 
+                        </a>
+                    </div>
+                    <div class="download-item">
+                        <a href="https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/android/appOperator/HoiAnGo-Operator.apk">
+                            APK Download App
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="release-section">
+                    <em class="subtitle">Release Note (Dev version):</em>
+                    <ul class="release-detail">
+                        <ul class="release-detail-note">
+                            <li>Update handle back gesture for ios & android</li>
+                            <li>Update resume service when service is cool down</li>
+                        </ul>
+                    </ul>     
+               </div>
+            </td>
         </tr>
     </table>
         
-    <!-- New iframe element connecting to localhost:3000/?from=hoiango.com -->
-    <!--<iframe id="app-iframe" src="http://localhost:3000/?from=hoiango.com" style="width: 100%; height: 95dvh; border: 1px solid #ccc; margin-top: 20px;"></iframe>
-
-    <script>
-        // Add event listener for iframe resize events
-        window.addEventListener('message', function(event) {
-            if (event.data && event.data.type === 'resize') {
-                console.group('listening resize:');
-                console.table(event.data);
-                console.groupEnd();
-                const iframe = document.getElementById('app-iframe');
-                if (iframe && event.data.height) {
-                    iframe.style.height = event.data.height + 'px';
-                }
-            }
-        });
-    </script>-->
-   
 </body>
 
 </html>
