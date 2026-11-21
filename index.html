@@ -140,16 +140,18 @@
             <!-- Driver Prod -->
             <td style="width: 50%; vertical-align: top; padding-left: 20px;">
                 <div style="display: flex;">
-                    <h3>Prod - Build 1.2.8 build 134</h3>
+                    <h3>Prod - Build 1.2.8</h3>
                 </div>
                 
                 <div class="main-info">
-                    <div class="download-item">
+                    <div class="download-item" style="display: flex; gap: 8px;">
+                         <span style="font-weight: bold; font-size: 14px;">iOS build 142:</span>
                         <a href="itms-services://?action=download-manifest&amp;url=https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/ios/appDriver/production/manifest.plist" style="font-size: 14px;">
-                            iOS Download App 
+                            IPA Download App 
                         </a>
                     </div>
-                    <div class="download-item">
+                    <div class="download-item" style="display: flex; gap: 8px;">
+                        <span style="font-weight: bold; font-size: 14px;">Android build 143: </span>
                         <a href="https://github.com/hungHatto/hungnguyen.github.io/raw/refs/heads/master/android/appDriver/production/HoiAnGo-Driver-Prod.apk" style="font-size: 14px;">
                             APK Download App
                         </a>
@@ -159,11 +161,30 @@
                 <div class="release-section">
                     <em class="subtitle">Release Note:</em>
                     <ul class="release-detail">
-                        <li><strong>Update:</strong></li>
-                        <ul class="release-detail-note">
-                            <li>Update layout list audio in <strong>Detail Order</strong></li>
-                        </ul>
-                    </ul>     
+                        <li>Add new payment method <strong>OnePay</strong></li>
+                        <li>Remove payment method <strong>VNPay</strong></li>
+                        <li>Apply new feature <strong>Pre-Assign Order</strong>:
+                            <ul class="release-detail-note">
+                                <li>Display assign Dialog.</li>
+                                <li><strong>Manage Screen</strong>:
+                                    <ul class="release-detail-note">
+                                        <li>Display list orders <strong>Normal</strong> &amp; <strong>Pre-Assign</strong></li>
+                                    </ul>
+                                </li>
+                                <li><strong>Detail Order</strong>:
+                                    <ul class="release-detail-note">
+                                        <li>Handle new state <strong>Start Early</strong> in order.</li>
+                                        <li>Handle from <strong>Admin</strong>:
+                                            <ul class="release-detail-note">
+                                                <li>Update order</li>
+                                                <li>Change assign driver</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
                 </div>
             </td>
         </tr>
@@ -178,7 +199,7 @@
                 </div>
                 
                 <div style="display: flex;">
-                    <h4>Dev - Build 2.1.8 - build 66</h3>
+                    <h4>Dev - Build 2.1.8 - build 67</h3>
                 </div>
                 
                 <div class="main-info">
@@ -201,7 +222,7 @@
                         <ul class="release-detail-note">
                              <li> <strong>Home screen:</strong>
                                 <ul class="release-detail-note">
-                                    <li><strong>Remove</strong> Draft Order></li>
+                                    <li><strong>Remove</strong> Draft Order</li>
                                 </ul>
                             </li>
                             <li><strong>Detail Form Booking (E-Taxi & Tour):</strong> 
